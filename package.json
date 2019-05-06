@@ -1,11 +1,11 @@
 {
-  "name": "array",
-  "version": "0.4.3",
-  "description": "a vocal, functional array",
+  "name": "iain-array",
+  "version": "0.4.4",
+  "description": "这是一个array的复制库，原地址为：",
   "main": "array.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/MatthewMueller/array.git"
+    "url": "git://github.com/IainZhuo/array.git"
   },
   "keywords": [
     "array",
@@ -13,11 +13,11 @@
     "vocal",
     "enumerable"
   ],
-  "author": "matthew mueller",
+  "author": "IainZhuo",
   "license": "MIT",
   "readmeFilename": "Readme.md",
   "dependencies": {
-    "emitter-component": "~1.1.0",
+    "emitter-component": "~1.1.1",
     "to-function": "~1.2.1"
   },
   "scripts": {
